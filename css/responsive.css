@@ -344,8 +344,8 @@
 	}
 	
 	.imgLogo img {
-		max-height: 48px !important;
-		max-width: 78%;
+		max-height: 60px !important;
+		max-width: 92%;
 		top: 40px;
 	}
 	
@@ -452,14 +452,15 @@
 	}
 
 	.trust-description > p {
-		font-size: 12px;
+		font-size: 10px;
 		font-weight: 400;
 		word-spacing: 0px;
 		letter-spacing: 0px;
+		padding: 0px !important;
 	}
 
 	.trust-content {
-		gap: 10px;
+		gap: 0px;
 	}
 
 	.trust-description > img {
@@ -634,5 +635,13 @@
 		left: 68%;
 		top: 50%;
 		transform: translateX(-44px) translateY(-50px);
+	}
+
+	.trust-description > p {
+		font-size: 10px;
+		font-weight: 400;
+		word-spacing: 0px;
+		letter-spacing: 0px;
+		padding: 0px !important;
 	}
 }
