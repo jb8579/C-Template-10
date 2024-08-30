@@ -282,18 +282,20 @@ p {
 
 .textmiddle p {
     text-align: center;
-    font-size: 14px;
-    max-width: 150px;
+    font-size: 16px;
+    max-width: 300px;
     margin: auto;
     letter-spacing: 0.4px;
     font-weight: 400;
 }
 
 .textmiddle h5 {
-	margin-top: 0;
-	margin-bottom: 10px;
+    margin-top: 0;
+    margin-bottom: 10px;
     letter-spacing: 0.6px;
     font-weight: 500;
+    font-size: 20px;
+    color: #e4fccb;
 }
 
 h1, h3, h4 {
